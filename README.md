@@ -1,2 +1,2 @@
 Сайт для предпринимателя, занимающегося услугами в сфере компьютерной помощи на дому.
-https://Felig.github.io/site1/index
+https://Felig.github.io/Site1/index
